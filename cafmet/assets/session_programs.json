@@ -1,0 +1,327 @@
+{
+    "S1": {
+      "title": "Metrology in Industry / Métrologie dans l’industrie",
+      "chairman": "W. TOUAYAR - INSAT (Tunisie)",
+      "location": "KAIROUAN",
+      "program": [
+        {
+          "time": "8:45 AM",
+          "title": "La métrologie au sein de la compagnie pétrolière SONATRACH.",
+          "speaker": "O. AMROUCHE (SONATRACH – Algérie)"
+        },
+        {
+          "time": "9:05 AM",
+          "title": "Exemple de traçabilité de mesurage dans un laboratoire d'étalonnage des anémomètres accrédité ISO IEC 17025.",
+          "speaker": "G. CHIBANI & M. A. AMRI (CRTEn – Tunisie)"
+        },
+        {
+          "time": "9:25 AM",
+          "title": "Le caoutchouc en Afrique : les principes essais et analyses.",
+          "speaker": "Y. AHOULE (CEDCPHA- Côte d'Ivoire)"
+        },
+        {
+          "time": "9:45 AM",
+          "title": "Technique d'échantillonnage pour l'étalonnage en courant alternatif.",
+          "speaker": "Y. LOUHICHI (TRESCAL – Tunisie)"
+        },
+        {
+          "time": "10:05 AM",
+          "title": "Essais sur le caoutchouc naturel et impact de sa qualité dans l'industrie des pneus : Retour d'expérience chez Michelin.",
+          "speaker": "A. MEWSE and (Wallace - United Kingdom)"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "L’influence des conditions environnementales sur l’étalonnage des masses étalons.",
+          "speaker": "M. CHMIELEVSKA, M. SOLECKI – RADWAG (Pologne)"
+        },
+        {
+          "time": "11:20 AM",
+          "title": "Importance du laboratoire de métrologie dans les services de production de HUTCHINSON.",
+          "speaker": "R. HEDHLI (HUTCHINSON – Tunisie)"
+        },
+        {
+          "time": "11:40 AM",
+          "title": "Expertise en détection de métaux : Innovation et métrologie pour garantir la qualité industrielle.",
+          "speaker": "R. AKPE (S21 – Côte d'Ivoire)"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Importance du contrôle métrologique des équipements sur la qualité des produits chez Poulina.",
+          "speaker": "I. HAMRAOUI and Ali (Poulina - Tunisie)"
+        },
+        {
+          "time": "12:20 AM",
+          "title": "La métrologie 3D dans le contexte de la construction et la réparation navale",
+          "speaker": "A. MILOUD (UST-Oran – Algérie)"
+        },
+        {
+          "time": "4:30 PM",
+          "title": "Démarche d’accréditation d’un laboratoire d’analyses des huiles d’olives et des huiles de grignon d’olives : enjeux et méthodologie.",
+          "speaker": "I. OUESLATI, G. HAMDAOUI, S. BACHKOUEL, N. DABBECH & F. KABIR (CBBC – Tunisie)"
+        },
+        {
+          "time": "4:50 PM",
+          "title": "Accréditation ISO IEC 17025 des laboratoires ZINDER, nouvelle opportunité d’ouverture de l’industrie pétrolière du Niger.",
+          "speaker": "I. OUSSEINY, M. LAQUAN & M. KABOYE ABASSA (SORAZ – Niger)"
+        },
+        {
+          "time": "5:10 PM",
+          "title": "Automatisation du processus d’étalonnage en anémométrie.",
+          "speaker": "A. AMRI & G. CHIBANI (CRTER – Tunisie)"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Évaluation des contraintes résiduelles par la méthode des rayons X : Cas de lacouche nitruée.",
+          "speaker":" N. BENRABIA, K. BOUZID & K. ABBOUKEBIR (FGM-UST Oran – Algérie)"
+        }
+      ]
+    },
+    "S2": {
+      "title": "Scientific Metrology / Métrologie scientifique",
+      "chairman": "A. BACAOUI - Université Cadi Ayyad (Maroc)",
+      "location": "SIDI BOUSSAID",
+      "program": [
+        {
+          "time": "8:45 AM",
+          "title": "Développement et caractérisation de matériaux Perovskite BaTiO3, substitué au calcium pour les mesures radiométriques.",
+          "speaker": "Z. BEN ACHOUR, M. BEN CHAMEKH & W. TOUAYAR (INSAT – Tunisie)"
+        },
+        {
+          "time": "9:05 AM",
+          "title": "Modélisation de l’évaporation d’un fluide dans un micro-canal.",
+          "speaker": "T. DABILGOU, S. SANDWIDI, G. TUBREOUMYA, J. NEBIE, B. BAGRE, K. HARO, O. SANOGO, A. BERE (Université JKI- Zerbo – BURKINA FASO)"
+        },
+        {
+          "time": "9:25 AM",
+          "title": "Uncertainty evaluation of diesel pour and cloud Point.",
+          "speaker": "S. RAISSI & W. TOUAYAR (FST/INSAT – Tunisie)"
+        },
+        {
+          "time": "9:45 AM",
+          "title": "A new calibration protocol for six-component dynamometer using force and torc application in a defined volume.",
+          "speaker": "J. VIGNAUD (I2M/IMS – France)"
+        },
+        {
+          "time": "10:05 AM",
+          "title": "Development of an optimized method for the analysis of Indium in Al-Zn-In alloys for sacrificial anodes by OES.",
+          "speaker": "S. BELGACEM, R. MEDANI, M. FERCHICHI & C. CHOUIKH (METEC – Tunisie)"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Etude théorique et expérimentale d’un détecteur pyroélectrique basé sur BaTiO3 substitué strontium pour des mesures radiométriques.",
+          "speaker": "M. CHAMEKH, Z.BEN ACHOUR & W. TOUAYAR (INSAT – Tunisie)"
+        },
+        {
+          "time": "11:20 AM",
+          "title": "Projet de recherche MultiFixRad pour établir une échelle de température thermodynamique basée sur des points fixes à haute température.",
+          "speaker": "M. SADLI, L. KNAZOVICKA, P. PAVLASEK, H. NASIBLI, F. BOURSON, A.A. FALNES OLSEN (LCM-LNE-CNAM – France)"
+        },
+        {
+          "time": "11:40 AM",
+          "title": "Transmitted impulse measurement system : verification and validation.",
+          "speaker": "H. OUSJI & K. MILED (Académie Militaire – Tunisie)"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Internal reference materials development and validation for Al-Zn-In alloys in cathodic protection : overcoming challenges in OES analysis.",
+          "speaker": "S. BELGACEM & R. MEDANI (METEC - Tunisie)"
+        },
+        {
+          "time": "12:20 AM",
+          "title": "Comparative surface texture analysis for complex profiles.",
+          "speaker": "A. BACHIR, H. NOUIRA, N. ANWER & R. BRAULT (LNE-ENS Saclay – France)"
+        },
+        {
+          "time": "4:30 PM",
+          "title": "Réactifs biosourcés pour une industrie minière durable : optimisation des procédés d’extraction et d’enrichissement des phosphates TBT par les plans d’expérience.",
+          "speaker": "A.BACAOUI, I EL KHALOUFI, M. DERQAOUI, H. HILMI, M. ALAOUI-MERVEM, K. ELAMARI, A. YACOUBI &. ABIDI (UCA – Maroc)"
+        },
+        {
+          "time": "4:50 PM",
+          "title": "Assessment uncertainties in pressure and velocity measurements in ballistics using pieozelectric transducers and light screens.",
+          "speaker": "L. KAROUS & M. DHOUBI (Académie Militaire- Tunisie)"
+        },
+        {
+          "time": "5:10 PM",
+          "title": "Establishment of laser interferometer-based system for primary calibration of accelerometers at SASO-NMCC.",
+          "speaker": "K. MAHMOUD (SASO-NMCC – Arabie Saoudite)"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Advanced profilometry-based wear quantification and Monte Carlo uncertainty analysis in ballistics metrology.",
+          "speaker": "M.DHOUBI, L. KARROUS & O. ATOUI (Académie Militaire- Tunisie)"
+        }
+      ]
+    },
+    "S3": {
+      "title": "AI and Metrology / Métrologie et IA",
+      "chairman": "G. CALCHERA - CIRAD (France)",
+      "location": "SFAX",
+      "program": [
+        {
+          "time": "8:45 AM",
+          "title": "Fabilliser les données de mesure à INRAE avec le projet M².",
+          "speaker": "A. JAULIN, S. ANDANSON & A. TROUVE (INRAE – France)"
+        },
+        {
+          "time": "9:05 AM",
+          "title": "AgriSens Smart farm Management System.",
+          "speaker": "S. BELABRIA, G. HAMMAI, M. BEN ACHMEKH & Z. BEN ACHOUR (INSAT – Tunisie)"
+        },
+        {
+          "time": "9:25 AM",
+          "title": "Design and development of a smart electric meter for optimized energy management.",
+          "speaker": "L. OUZANE, A. HARRAG & R. CHEMAKH (Université Sétif – Algérie)"
+        },
+        {
+          "time": "9:45 AM",
+          "title": "Intégration de l’IA et du big data dans le domaine de la métrologie.",
+          "speaker": "M.SEKMA (ISIM – Tunisie)"
+        },
+        {
+          "time": "10:05 AM",
+          "title": "Concept of new IoT solutions for environmental applications.",
+          "speaker": "A. ABDELGHANI & S. BEHI (MiGSens-INSAT – Tunisie)"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Optimisation de la performance des centrales photovoltaïques en exploitation grâce à l’Intelligence Artificielle.",
+          "speaker": "A.CHARKI, B. CHOKR, O. MABROUK, N. CHATTI, X. SIDAMBAPROMPOULE, T. LEMENAND (Université d’Angers – France) & M. HAMOUD (Libanese International University - LEBAN)"
+        },
+        {
+          "time": "11:20 AM",
+          "title": "Métrologie et data science : Rôle clé de la détermination du facteur d’élargissement k pour l’estimation des incertitudes.",
+          "speaker": "S. OUAKAD & H. JANADI (CK Métrologie - Tunisie)"
+        },
+        {
+          "time": "11:40 AM",
+          "title": "Integration of AI to improve reliability and accuracy of natural gas pipeline monitoring systems.",
+          "speaker": "H. HADFANI, N. KHENNAFI BEN GHALEM & A. DIFAT (Université Sétif – Algérie)"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Tensil test audit procedure digitalization in line with ISO6892-1 standard.",
+          "speaker": "N. DHRIOUA, N. CHITIOUI, N. JEGHAM, M. JEDDI & S. HADJ AMOR (ISET – Tunisie)"
+        }
+      ]
+    },
+    "S4": {
+      "title": "Agri-food, Environment and Health / Agro-alimentaire, Environnement et Santé",
+      "chairman": "L. MARTIN - QMP (Maroc)",
+      "location": "SOUSSE",
+      "program": [
+        {
+          "time": "8:45 AM",
+          "title": "Sustainable environment and mobility : Modeling and caracterization of road traffic emission.",
+          "speaker": "H.MOSBAHI & E. SMA (ISTLS-Tunisie)"
+        },
+        {
+          "time": "9:05 AM",
+          "title": "Uncertainty quantification and optimization of microplastics identification by micro-Raman.",
+          "speaker": "R. BETTENCOURT DA SILVA, O. PELLEGRINO and All (IPQ – Portugal)"
+        },
+        {
+          "time": "9:25 AM",
+          "title": "Decolorization of SY and QY dyes by gamma treatment.",
+          "speaker": "M. BEN SALEM, A. ZAOUAK, A. NOOMEN & H. ABDERRAZAK (CNSTN – Tunisie)"
+        },
+        {
+          "time": "9:45 AM",
+          "title": "Optimisation des rejets fins de minerais de phosphates par flotation directe : une approche axée sur la qualité et la durabilité.",
+          "speaker": "A. BACAQUI and All (UCA – Maroc)"
+        },
+        {
+          "time": "10:05 AM",
+          "title": "Etalonnage interne et vérification métrologique d’un spectrophotomètre UV-Visible pour l’analyse des extinctions spécifiques.",
+          "speaker": "S. BACHKOUEL and All (CBBC – Tunisie)"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Particulate and gaseous pollution in a west african city : case study of Ouagadougou.",
+          "speaker": "I. QUARMA, B. NANA, K. HARO, Y. ROUATAN, G.C. TUBREOUMYA, A. BERE & J. KOULIDIATI (Centre universitaire de Banfora – Burkina Faso)"
+        },
+        {
+          "time": "11:20 AM",
+          "title": "Fiabilité métrologique et accréditation des analyses des acides gras libres.",
+          "speaker": "F. KEBIR, G. HAMDAQUI, S. BACHKOUEL, N. DABBECH & I. OUESLATI (CBBC – Tunisie)"
+        },
+        {
+          "time": "11:40 AM",
+          "title": "Principales modifications apportées par l’amendement A1 :2024 à la norme ISO 9001 :2015.",
+          "speaker": "W. TOUNSI (CERTE - Tunisie)"
+        },
+        {
+          "time": "4:30 PM",
+          "title": "Situation de la métrologie en Guinée dans les laboratoires de biologie médicale.",
+          "speaker": "W.BAH, A. TOURE & D; SANGARE (HEQSS – Guinée)"
+        },
+        {
+          "time": "4:50 PM",
+          "title": "Rôle de la Métiologie dans un laboratoire de Biologie Médicale.",
+          "speaker": "K. LAJMI, D.AMMARI, N. SAIDI, T. MHIRI & M. BOUCHEKOUA (IHROT–HCN–Tunisie)"
+        },
+        {
+          "time": "5:10 PM",
+          "title": "La qualité et la métrologie au cœur d’un laboratoire de recherche en santé animale.",
+          "speaker": "D.SIONNEAU & M. ZAATIR (ASTRE/CIRAD – France)"
+        }
+      ]
+    },
+    "S5": {
+      "title": "National Metrology / Métrologie Nationale",
+      "chairman": "A. CHARKI - Université d’Angers (France)",
+      "location": "KERKENNAH",
+      "program": [
+        {
+          "time": "8:45 AM",
+          "title": "Tracabilité métrologique dans le domaine électrique : Banc à effet Josephson.",
+          "speaker": "L. ABBANE (Ex-DEFNAT – Tunisie)"
+        },
+        {
+          "time": "9:05 AM",
+          "title": "Mise en pratique du Kelvin au LNE-CNAM.",
+          "speaker": "M. SADLI, F. BOURSON, L. PITRE & F. SPARASCI (LCM-LNE-CNAM – France)"
+        },
+        {
+          "time": "9:25 AM",
+          "title": "Luminous reposivity calibration with novel uncertainty analysis in ultiminance for modern lighting applications.",
+          "speaker": "K. MAHMOUD & K. ABDELFATAH (SASO-NMCC – Arabie Saoudite)"
+        },
+        {
+          "time": "9:45 AM",
+          "title": "Bonne pratique de l’étalonnage de pyromètres.",
+          "speaker": "M. SADLI & F. BOURSON (LCM-LNE-CNAM – France)"
+        },
+        {
+          "time": "10:05 AM",
+          "title": "La métrologie chimique pilier de l’infrastructure de mesure durable.",
+          "speaker": "H. KLICH (LNMc-INRAP - Tunisie)"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Mechanical comparator for short gauge block calibration with modified uncertainty analysis.",
+          "speaker": "K. MAHMOUD & A. ALZAMIL (SASO-NMCC – Arabie Saoudite)"
+        },
+        {
+          "time": "11:20 AM",
+          "title": "Tunisian national strategy in chemical metrology as a key quality assurance.",
+          "speaker": "S.CHAEIB, H. KLICH, W BELLAZREG, H. SALLEMI & K. ALIMI (LNMc-INRAP - Tunisie)"
+        },
+        {
+          "time": "11:40 AM",
+          "title": "La métrologie judiciaire, audit de règlement des différends.",
+          "speaker": "I.SARR (Métrologie judiciaire -Sénégal)"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Development of metrology system in Palestine - A successful exemple of the technical cooperation.",
+          "speaker": "IM. HALAJ, Y GHAZI & M. MARTIN (PTB, Germany & PSI - Palestine)"
+        },
+        {
+          "time": "12:20 AM",
+          "title": "La métrologie légale en Tunisie : vue retrospective et vision prospective.",
+          "speaker": "S. BOUAZIZ (ANM - Tunisie)"
+        }
+      ]
+    }
+  }
