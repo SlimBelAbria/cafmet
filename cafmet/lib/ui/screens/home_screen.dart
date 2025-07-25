@@ -55,7 +55,7 @@ class HomePageState extends State<HomePage> {
           const Center(child: MapScreen()),
           Center(
             child: NotificationsWidget(
-              csvUrl: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS3s2CodS5ElcAHye4YBwyQV5i7ZwuNiySbNMFagMRImyeMnsTSa1Ps32WZrM91qGHuNb7VwiaTln1t/pub?gid=0&single=true&output=csv',
+              csvUrl: 'x',
               userRole: widget.userRole,
             ),
           ),
@@ -674,7 +674,7 @@ class HomePageContentState extends State<HomePageContent> with SingleTickerProvi
                           context,
                           MaterialPageRoute(
                             builder: (context) => const PdfViewerScreen(
-                              pdfUrl: 'https://drive.google.com/uc?export=download&id=16nk9UyxcR4AKNgZdfm33hMsdYDlnKPUn',
+                              pdfUrl: 'x',
                             ),
                           ),
                         );

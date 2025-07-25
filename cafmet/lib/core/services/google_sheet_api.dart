@@ -10,10 +10,10 @@ class GoogleSheetApi {
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoZOXzWa3M0dEw\n/BLLOI9BZ0ClWRQmvg+zgvKNaXaD9ChTLjGHU71NNdOGKw/v25dbC77nd3mWwoto\ngdcd0dG2SrlfQeqACUVPE0UK44yRAzjbVsXqUFjqTc2ItJr2cek9YfqFT/HWaEIT\nW+Y6gKGk1aYg+bD9Rmy0/0/ywfo0SYrJai8PcRWv8eAEKsFgqqQ+61QFpmI+81Jh\njGlGcx7zQFTHG8nwsoxr6Dgo85VmZI/xB+9wKIYVEdbS/4H54EKcwWtyQtprvp/W\nREF+wCDJ4GOtxOPLg2SIRYQqwH0UkSny++GjyHQ2ySkY8x9bSRITQs2515iB+mc3\nGBkJzpYjAgMBAAECggEAEE4ozUih4W3Fmup66rjwzM1HKgY3QyMZ2Rt1CggBZPiH\neQ/FgEw1oxwdqGWotuR6l43Kb+uWgehs4EiGQF8Yi9VYyruoDbrCvnaSs7cMiDQZ\ngB+QWBvB6E9yoenprAhOpIDFZb2JILuFU7jie51d9DHd0rPqv940WM2fUQBtuOc8\n8+3qrO4zPNV1zzHPeNQoFL0uOIzVSq4XPmJKgAc/t0CHqiwQyLVO3piPdRBbpr1d\nwgvV5MmqHBuSgIZDkochYQ0xvboNSyrlk3CP/dvaYCIg67q8HRq55ScNVDoasPNt\nbAK9W0aRusofW8+NhQ5hcb9sj++ItvbtibMQ5byJlQKBgQDoq+e94G1bKT/Hw86D\nhDM+wa6ko25uYRzid+AvdiVuZclqqGFzH0I8NnhR9vNiGQ9+0wfTNHbIrBMXotdt\nV4qoWBR3B6fiMI8WBcNTPLMzNy0BtZ8RwobSm3+29uMZu/G1gEeSmrRAjOqM7gvG\n/3bIeSSoe4MvDXzVDlWVzSQPzwKBgQC5Rydk3ZH6quvIr2Uw00bc1IFT4UdIMWxQ\nvJHTuTmQGQ5dyMH6l+GYe/oX5c2jHiwltVL3oAVmERIBZCcU5CuOoQ+tuKQIPp7Y\nDnnXEJraaVLdFyMajij+ICEipCaxFq/OFR5/3IZZAVes577ZZKBpeuKmR/zU0uWs\nAZc/0HI1bQKBgALloQ0MLlBkQxcJqRiaHMk7QCFsp4NYUjO/qlrs7apiOg/J6Oy2\nBu0ZAIaEvKMMDNVXa1GF5bS578LrlCMYY/GUpyyUO9LlJ+LuT3BJ4TFSDo1m5YQj\nF+qnZP+yM0GuxWOtJTb+FiB3oLQAgsUHiUMVvw8Z+pgrYtKESyyCUWChAoGAQS5X\nHZUVlioraR7LarHpbCcWmHvYp/07LewpIWM4bQljlHrcQ1zLcOmswluGTKyAu4Ne\n/N6/B3lZ7ENfvGnJKRRgf61Fh+D/4OK22oJs+Am1rTJGl0EMCtsizR0Sv5pLnySu\n5iye1xEx1xJwgep0xKcGtZj9yaGoSysEGt8qTsECgYAmyQeYVO2APXbrDzZ1wvXC\n45UqiET2Q3sNmVTXtHuPbuGMlzL/i2gKew5Ya6yyro5zfZiUkmzz/aiLkEpY7t+e\nNK2yq2xACli2vJAL8gUKeSxScydRWodxDSagd8rHAOgE6DHgqjbDrTpSR8yGXTQa\nTp4QB02Xh15t1WzvtVimyQ==\n-----END PRIVATE KEY-----\n",
   "client_email": "gsheets@cafmet2025.iam.gserviceaccount.com",
   "client_id": "117033828493427952746",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsheets%40cafmet2025.iam.gserviceaccount.com",
+  "auth_uri": "x",
+  "token_uri": "x",
+  "auth_provider_x509_cert_url": "x",
+  "client_x509_cert_url": "x",
   "universe_domain": "googleapis.com"
 }
   ''';

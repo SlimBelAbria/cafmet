@@ -1,5 +1,5 @@
  const String csvUrl =
-    'https://docs.google.com/spreadsheets/d/e/2PACX-1vS3s2CodS5ElcAHye4YBwyQV5i7ZwuNiySbNMFagMRImyeMnsTSa1Ps32WZrM91qGHuNb7VwiaTln1t/pub?gid=255114807&single=true&output=csv';
+    '';
   
    const String csvId = '1CsRVRaqLhtswrRxyFaO8MbO2GweDGf6fRsEtYZCBgR4';
 class AppConstants {

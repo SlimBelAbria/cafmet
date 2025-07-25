@@ -4,7 +4,7 @@ import 'package:cafmet/core/services/google_sheets_service.dart';
 class AuthService {
   final GoogleSheetsService _googleSheetsService = GoogleSheetsService();
   final String _csvUrl =
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vS3s2CodS5ElcAHye4YBwyQV5i7ZwuNiySbNMFagMRImyeMnsTSa1Ps32WZrM91qGHuNb7VwiaTln1t/pub?gid=0&single=true&output=csv';
+      'x';
 
   // Method to fetch users from Google Sheets
   Future<List<Map<String, String>>> fetchUsers() async {
