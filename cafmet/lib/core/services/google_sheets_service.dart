@@ -27,7 +27,7 @@ class GoogleSheetsService {
    Future<List<Map<String, String>>> fetchNotifications() async {
   try {
     _logger.d("Fetching data from Google Sheets CSV...");
-    final response = await http.get(Uri.parse('x')).timeout(const Duration(seconds: 10));
+    final response = await http.get(Uri.parse(csvUrl)).timeout(const Duration(seconds: 10));
 
     if (response.statusCode == 200) {
       _logger.d("Data fetched successfully");
@@ -55,7 +55,11 @@ class GoogleSheetsService {
  
   try {
     _logger.d("Fetching data from Google Sheets CSV...");
-    final response = await http.get(Uri.parse('x')).timeout(const Duration(seconds: 10));
+    final b2bUrl = const String.fromEnvironment(
+      'GOOGLE_SHEETS_B2B_URL',
+      defaultValue: 'YOUR_GOOGLE_SHEETS_B2B_URL_HERE',
+    );
+    final response = await http.get(Uri.parse(b2bUrl)).timeout(const Duration(seconds: 10));
 
     if (response.statusCode == 200) {
       _logger.d("Data fetched successfully");

@@ -1,7 +1,14 @@
- const String csvUrl =
-    '';
-  
-   const String csvId = '1CsRVRaqLhtswrRxyFaO8MbO2GweDGf6fRsEtYZCBgR4';
+// Google Sheets Configuration - Use environment variables for sensitive URLs
+const String csvUrl = String.fromEnvironment(
+  'GOOGLE_SHEETS_CSV_URL',
+  defaultValue: 'YOUR_GOOGLE_SHEETS_CSV_URL_HERE',
+);
+
+const String csvId = String.fromEnvironment(
+  'GOOGLE_SHEETS_ID',
+  defaultValue: 'YOUR_GOOGLE_SHEETS_ID_HERE',
+);
+
 class AppConstants {
   const AppConstants._();
 

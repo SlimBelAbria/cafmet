@@ -9,7 +9,6 @@ import 'package:cafmet/ui/screens/login_screen.dart';
 import 'package:cafmet/ui/screens/map_screen.dart';
 import 'package:cafmet/ui/screens/notifications_screen.dart';
 import 'package:cafmet/ui/screens/scan_screen.dart';
-import 'package:flutter_vector_icons/flutter_vector_icons.dart';
 
 class HomePage extends StatefulWidget {
   final String? userRole;
@@ -55,7 +54,10 @@ class HomePageState extends State<HomePage> {
           const Center(child: MapScreen()),
           Center(
             child: NotificationsWidget(
-              csvUrl: 'x',
+              csvUrl: const String.fromEnvironment(
+                'GOOGLE_SHEETS_USER_URL',
+                defaultValue: 'YOUR_GOOGLE_SHEETS_USER_URL_HERE',
+              ),
               userRole: widget.userRole,
             ),
           ),
@@ -665,7 +667,7 @@ class HomePageContentState extends State<HomePageContent> with SingleTickerProvi
                           ),
                         );
         }, 
-        icon: const Icon(MaterialCommunityIcons.qrcode, color: Color(0xff285F74))),
+        icon: const Icon(Icons.qr_code, color: Color(0xff285F74))),
         
         IconButton(
           icon: const Icon(Icons.picture_as_pdf, color: Color(0xff285F74)),
@@ -673,8 +675,11 @@ class HomePageContentState extends State<HomePageContent> with SingleTickerProvi
             Navigator.push(
                           context,
                           MaterialPageRoute(
-                            builder: (context) => const PdfViewerScreen(
-                              pdfUrl: 'x',
+                            builder: (context) => PdfViewerScreen(
+                              pdfUrl: const String.fromEnvironment(
+                                'GOOGLE_DRIVE_PDF_URL',
+                                defaultValue: 'YOUR_GOOGLE_DRIVE_PDF_URL_HERE',
+                              ),
                             ),
                           ),
                         );

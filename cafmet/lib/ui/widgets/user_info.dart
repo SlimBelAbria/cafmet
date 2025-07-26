@@ -86,7 +86,10 @@ class UserBadgeScreen extends StatelessWidget {
 
 Future<Map<String, String>> getUserDetails(String user) async {
   final googleSheetsService = GoogleSheetsService();
-  String csvUrl = 'x';
+  String csvUrl = const String.fromEnvironment(
+    'GOOGLE_SHEETS_USER_URL',
+    defaultValue: 'YOUR_GOOGLE_SHEETS_USER_URL_HERE',
+  );
   
   try {
     final data = await googleSheetsService.fetchSheetData(csvUrl);

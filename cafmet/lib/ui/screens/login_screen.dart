@@ -194,7 +194,7 @@ class _LoginWidgetState extends State<LoginScreen> {
                             onPressed: () {
                               showErrorDialog(
                                 context,
-                                message: 'Check your email for your login information \n or contact \n cafmet2025.help@gmail.com',
+                                message: 'Check your email for your login information \n or contact \n ${const String.fromEnvironment('SUPPORT_EMAIL', defaultValue: 'support@yourdomain.com')}',
                               );
                             },
                             child: const Text(

@@ -271,7 +271,10 @@ class _ViewScreenState extends State<ViewScreen> {
   Future<Map<String, String>> getUserDetails(String scannedId) async {
     // Your existing implementation
     final googleSheetsService = GoogleSheetsService();
-    String csvUrl='x';
+    String csvUrl = const String.fromEnvironment(
+      'GOOGLE_SHEETS_USER_URL',
+      defaultValue: 'YOUR_GOOGLE_SHEETS_USER_URL_HERE',
+    );
 
     try {
       final data = await googleSheetsService.fetchSheetData(csvUrl);
